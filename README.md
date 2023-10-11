@@ -4,5 +4,5 @@ I'm a seasoned software developer with a two-year background in JavaScript, CSS,
 While my professional background is in land surveying engineering, my continuous learning in web development has led me to new horizons. Currently honing my skills in React, Redux, and responsive design, I aim to make meaningful contributions to the web development world.
 
 Skills
-C# Javascript Typescript HTML5 React NextJs CSS3 TailwindCSS Bootstrap Material UI Redux NodeJS Express GraphQL NestJS MongoDB Heroku .NET Photoshop Figma XD Premiere Pro Ethereum
+Javascript Typescript HTML5 React NextJs CSS3 TailwindCSS Bootstrap Redux
 
